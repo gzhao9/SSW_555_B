@@ -1,0 +1,246 @@
+--> 0 NOTE Gengwu Zhao
+<-- 0|NOTE|Y|Gengwu Zhao
+--> 0 HEAD
+<-- 0|HEAD|Y|
+--> 1 SOUR Family Echo
+<-- 1|SOUR|N|Family Echo
+--> 2 WWW http://www.familyecho.com/
+<-- 2|WWW|N|http://www.familyecho.com/
+--> 1 FILE My Family
+<-- 1|FILE|N|My Family
+--> 1 DATE 8 FEB 2021
+<-- 1|DATE|N|8 FEB 2021
+--> 1 DEST ANSTFILE
+<-- 1|DEST|N|ANSTFILE
+--> 1 GEDC
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2|VERS|N|5.5.1
+--> 2 FORM LINEAGE-LINKED
+<-- 2|FORM|N|LINEAGE-LINKED
+--> 1 SUBM @I1@
+<-- 1|SUBM|N|@I1@
+--> 2 NAME
+<-- 2|NAME|N|
+--> 1 SUBN
+<-- 1|SUBN|N|
+--> 1 CHAR UTF-8
+<-- 1|CHAR|N|UTF-8
+--> 0 @I1@ INDI
+<-- 0|INDI|Y|@I1@
+--> 1 NAME Yifu /Shao/
+<-- 1|NAME|Y|Yifu /Shao/
+--> 2 GIVN Yifu
+<-- 2|GIVN|N|Yifu
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 19 NOV 1907
+<-- 2|DATE|Y|19 NOV 1907
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 7 JAN 2014
+<-- 2|DATE|Y|7 JAN 2014
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@
+--> 0 @I2@ INDI
+<-- 0|INDI|Y|@I2@
+--> 1 NAME Meizhen /Huang/
+<-- 1|NAME|Y|Meizhen /Huang/
+--> 2 GIVN Meizhen
+<-- 2|GIVN|N|Meizhen
+--> 2 SURN Huang
+<-- 2|SURN|N|Huang
+--> 2 _MARNM Huang
+<-- 2|_MARNM|N|Huang
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE AFT 1902
+<-- 2|DATE|Y|AFT 1902
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 1987
+<-- 2|DATE|Y|1987
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 0 @I3@ INDI
+<-- 0|INDI|Y|@I3@
+--> 1 NAME YIhua /Fang/
+<-- 1|NAME|Y|YIhua /Fang/
+--> 2 GIVN YIhua
+<-- 2|GIVN|N|YIhua
+--> 2 SURN Fang
+<-- 2|SURN|N|Fang
+--> 2 _MARNM Fang
+<-- 2|_MARNM|N|Fang
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE AFT 1934
+<-- 2|DATE|Y|AFT 1934
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 20 NOV 2017
+<-- 2|DATE|Y|20 NOV 2017
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 0 @I4@ INDI
+<-- 0|INDI|Y|@I4@
+--> 1 NAME Weizhong /Shao/
+<-- 1|NAME|Y|Weizhong /Shao/
+--> 2 GIVN Weizhong
+<-- 2|GIVN|N|Weizhong
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I5@ INDI
+<-- 0|INDI|Y|@I5@
+--> 1 NAME Weiming /Shao/
+<-- 1|NAME|Y|Weiming /Shao/
+--> 2 GIVN Weiming
+<-- 2|GIVN|N|Weiming
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE AFT 1938
+<-- 2|DATE|Y|AFT 1938
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I6@ INDI
+<-- 0|INDI|Y|@I6@
+--> 1 NAME Yuxuan /Shao/
+<-- 1|NAME|Y|Yuxuan /Shao/
+--> 2 GIVN Yuxuan
+<-- 2|GIVN|N|Yuxuan
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 1920
+<-- 2|DATE|Y|1920
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@
+--> 0 @I7@ INDI
+<-- 0|INDI|Y|@I7@
+--> 1 NAME Zuiwong /Shao/
+<-- 1|NAME|Y|Zuiwong /Shao/
+--> 2 GIVN Zuiwong
+<-- 2|GIVN|N|Zuiwong
+--> 2 SURN Shao
+<-- 2|SURN|N|Shao
+--> 2 _MARNM Shao
+<-- 2|_MARNM|N|Shao
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1896
+<-- 2|DATE|Y|1896
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 1976
+<-- 2|DATE|Y|1976
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@
+--> 0 @I8@ INDI
+<-- 0|INDI|Y|@I8@
+--> 1 NAME Yumei /Chen/
+<-- 1|NAME|Y|Yumei /Chen/
+--> 2 GIVN Yumei
+<-- 2|GIVN|N|Yumei
+--> 2 SURN Chen
+<-- 2|SURN|N|Chen
+--> 2 _MARNM Chen
+<-- 2|_MARNM|N|Chen
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 1910
+<-- 2|DATE|Y|1910
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 1985
+<-- 2|DATE|Y|1985
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 0 @I9@ INDI
+<-- 0|INDI|Y|@I9@
+--> 1 NAME /Fang/
+<-- 1|NAME|Y|/Fang/
+--> 2 SURN Fang
+<-- 2|SURN|N|Fang
+--> 2 _MARNM Fang
+<-- 2|_MARNM|N|Fang
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @F1@ FAM
+<-- 0|FAM|Y|@F1@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I3@
+<-- 1|WIFE|Y|@I3@
+--> 1 CHIL @I9@
+<-- 1|CHIL|Y|@I9@
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 0 @F2@ FAM
+<-- 0|FAM|Y|@F2@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I2@
+<-- 1|WIFE|Y|@I2@
+--> 1 CHIL @I4@
+<-- 1|CHIL|Y|@I4@
+--> 1 CHIL @I5@
+<-- 1|CHIL|Y|@I5@
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 0 @F3@ FAM
+<-- 0|FAM|Y|@F3@
+--> 1 HUSB @I6@
+<-- 1|HUSB|Y|@I6@
+--> 1 CHIL @I1@
+<-- 1|CHIL|Y|@I1@
+--> 1 CHIL @I7@
+<-- 1|CHIL|Y|@I7@
+--> 1 _CURRENT N
+<-- 1|_CURRENT|N|N
+--> 0 @F4@ FAM
+<-- 0|FAM|Y|@F4@
+--> 1 HUSB @I7@
+<-- 1|HUSB|Y|@I7@
+--> 1 WIFE @I8@
+<-- 1|WIFE|Y|@I8@
+--> 1 _CURRENT Y
+<-- 1|_CURRENT|N|Y
+--> 0 TRLR
+<-- 0|TRLR|Y|
